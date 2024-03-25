@@ -1,0 +1,1 @@
+This is a Computer vision project that reads an FSSAI number using OCR from a submitted image and fetches the details using that number.
